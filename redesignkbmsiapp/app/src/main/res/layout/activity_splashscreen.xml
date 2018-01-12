@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ImageView android:id="@+id/splashscreen"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/kbmsiappslow"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:textColor="#EE5605"
+        android:textSize="16sp"
+        android:text="Penelitian dan Pengembangan Studi - EMSI UB "/>
+
+</RelativeLayout>

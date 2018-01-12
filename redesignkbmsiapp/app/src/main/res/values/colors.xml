@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDB12A</color>
+    <color name="colorPrimaryDark">#FFB228</color>
+    <color name="colorAccent">#FFA70B</color>
+    <color name="hadir">#5CB85C</color>
+    <color name="ghadir">#D9534F</color>
+
+</resources>
